@@ -1,0 +1,16 @@
+{
+  "carnivores": [
+  	{
+      "name": "man",
+      "family": "family"
+  	},
+    {
+      "name": "tiger",
+      "family": "cats"
+  	},
+    {
+      "name": "dog",
+      "family": "canine"
+  	}
+  ] 
+}

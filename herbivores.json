@@ -1,0 +1,16 @@
+{
+  "herbivores": [
+ {
+      "name": "woman",
+      "family": "divine"
+  	},
+    {
+      "name": "fish",
+      "family": "wet"
+  	},
+    {
+      "name": "bee",
+      "family": "buzz"
+  	}
+  ] 
+}
